@@ -17,8 +17,8 @@ disp(s2)
 s3 = x' * B;
 disp(s3)
 
-s4 = B * y;
-disp(s4)
+%s4 = B * y;
+%disp(s4)
 
 %s5 = x * A;
 %disp(s5)
